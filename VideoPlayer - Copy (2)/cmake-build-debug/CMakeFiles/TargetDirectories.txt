@@ -1,0 +1,3 @@
+C:/Users/princ/OneDrive/Desktop/VideoPlayer/cmake-build-debug/CMakeFiles/video_player.dir
+C:/Users/princ/OneDrive/Desktop/VideoPlayer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/princ/OneDrive/Desktop/VideoPlayer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
